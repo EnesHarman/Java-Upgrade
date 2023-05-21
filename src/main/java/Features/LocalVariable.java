@@ -1,7 +1,6 @@
-package Java10;
+package Features;
 
 import java.util.ArrayList;
-import java.util.List;
 
 public class LocalVariable {
     public static void main(String[] args) {

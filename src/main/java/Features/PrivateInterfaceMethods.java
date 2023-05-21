@@ -1,4 +1,4 @@
-package Java9;
+package Features;
 
 public class PrivateInterfaceMethods {
     public static void main(String[] args) {
